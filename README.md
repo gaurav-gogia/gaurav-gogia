@@ -14,7 +14,7 @@
   with a secure-by-default direction.
 - [indicer](https://github.com/aoiflux/indicer): Large scale evidence archiving,
   indexing, similarity detection software
-- [generator](https://github.com/aoiflux/generator): Digital forensic artefact
+- [fsagen](https://github.com/aoiflux/fsagen): Digital forensic artefact
   generation, composition, and scenario development tool.
 - [carvey](https://github.com/gaurav-gogia/carvey): Carving-focused utility
   project.

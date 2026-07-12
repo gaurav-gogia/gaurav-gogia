@@ -10,7 +10,7 @@
 
 ## Selected Repositories
 
-- [mutant](https://github.com/mutant): Open-source programming language project
+- [mutant](https://github.com/aoiflux/mutant): Open-source programming language project
   with a secure-by-default direction.
 - [indicer](https://github.com/aoiflux/indicer): Large scale evidence archiving,
   indexing, similarity detection software

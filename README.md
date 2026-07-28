@@ -13,11 +13,10 @@
 - [mutant](https://github.com/aoiflux/mutant): Open-source programming language project
   with a secure-by-default direction.
 - [indicer](https://github.com/aoiflux/indicer): Large scale evidence archiving,
-  indexing, similarity detection software
+  indexing, similarity detection software.
 - [fsagen](https://github.com/aoiflux/fsagen): Digital forensic artefact
   generation, composition, and scenario development tool.
-- [carvey](https://github.com/gaurav-gogia/carvey): Carving-focused utility
-  project.
+- [rohy](https://github.com/aoiflux/rohy): Log analysis software.
 
 ## Links
 
